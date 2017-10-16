@@ -27,7 +27,7 @@ class Dog : public Pet
 public:
     virtual string GetAngry()
     {
-        return "イヌがほえる";
+        return "イヌがほえる、噛む";
     }
 };
 
